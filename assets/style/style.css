@@ -80,6 +80,10 @@ font-family: 'Raleway', sans-serif; */
     font-size: 16px;
 }
 
+.cusbutton{
+    background-color: #46591D;
+    border-radius: 10px;
+}
 
 .navbar1{
     display:flex;
